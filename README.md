@@ -11,5 +11,5 @@
   
   
 
-## Pymaceuticals Drug regimen report
+## Vacation Destinations.
 <img src="https://github.com/BanuNathan/Python_API_Challenge/blob/main/images/Screenshot%20(39).png">
