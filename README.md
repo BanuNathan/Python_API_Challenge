@@ -13,7 +13,7 @@
   
   ### There do not seem to be  strong correlations between latitude and wind speed,  humidity or cloudiness.
   
-  ### Based on the analysis two good vacation destinations seem to be
+  ### Based on the analysis two good vacation destinations seem to be Utete Tanzania and 
   
   
   
