@@ -11,6 +11,8 @@
   
   ### However if we split the data forteh norhtern and southern hemispheres, there seems to be linear relationships between the temperature and the latitude. Also the relationship is lot more pronouced in the case of nothern hemisphere than in the case of southern hemiphere. This could be due to the lack of data in the far southern latitudes.
   
+  ### There do not seem to be  strong correlations between latitude and wind speed,  humidity or cloudiness.
+  
   
   
 
