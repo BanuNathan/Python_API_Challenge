@@ -19,7 +19,7 @@
   
 
 ## Vacation Destinations.
-<img src="https://github.com/BanuNathan/Python_API_Challenge/blob/main/images/Screenshot%20(59).png">
-
-
 <img src="https://github.com/BanuNathan/Python_API_Challenge/blob/main/images/Screenshot%20(60).png">
+
+
+<img src="https://github.com/BanuNathan/Python_API_Challenge/blob/main/images/Screenshot%20(59).png">
